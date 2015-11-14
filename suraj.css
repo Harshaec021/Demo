@@ -1,0 +1,21 @@
+h1{
+	text-align: center;
+	color: black;
+	text-decoration: underline;
+	text-transform:uppercase;
+ 
+}
+	
+p{
+	text-align: center;
+	color: black;
+	font-size: 30px;
+}
+body{
+
+	background-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSffwA8WFpXRymZecyP9WG0e-6tvXERf9wrmBnnj4f835Xrr8RF2w");
+	
+}
+mark{
+	color:red;
+}
